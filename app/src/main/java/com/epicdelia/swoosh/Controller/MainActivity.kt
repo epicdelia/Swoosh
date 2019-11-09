@@ -1,8 +1,8 @@
-package com.epicdelia.swoosh
+package com.epicdelia.swoosh.Controller
 
-import androidx.appcompat.app.AppCompatActivity
 import android.content.Intent
 import android.os.Bundle
+import com.epicdelia.swoosh.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {

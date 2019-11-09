@@ -1,8 +1,9 @@
-package com.epicdelia.swoosh
+package com.epicdelia.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.util.Log
 import android.os.Bundle
+import com.epicdelia.swoosh.R
 
 open class BaseActivity : AppCompatActivity() {
 
